@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### I'm Currently working as a Full stack .Net developer 
 ### I am currently looking forward to learn Building gRPC with .Net Core and Blazor 
-### You can reach me At 
+### You can reach me At 📫
 ### LinkedIn - Mangesh Gaherwar 
 ### Twitter - @DotnetGik1
 ### Email - Mangesh.g@outlook.com
-
+### 👯 I’m looking to collaborate with students and aspiring developer who needs help with there projects 
 
 <!--
 **dotnetgik/dotnetgik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

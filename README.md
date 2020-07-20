@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I'm Currently working as a Full stack .Net developer 
-### I am currently looking forward to learn Building gRPC with .Net Core and Blazor 
 ### You can reach me At 📫
 ### LinkedIn - Mangesh Gaherwar 
 ### Twitter - @DotnetGik1
